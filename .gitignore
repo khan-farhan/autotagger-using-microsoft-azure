@@ -1,6 +1,0 @@
-.gitignore
-.DS_Store
-test2.py
-__pycache__
-Database.csv
-face_detection_azure.py
