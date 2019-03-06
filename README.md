@@ -1,4 +1,4 @@
-This project is a GUI based autotagger which uses Microsoft azure cognitive services face api to identify a person in a given picture.
+This project is a GUI based autotagger in python3 which uses Microsoft azure cognitive services face api to identify a person in a given picture.
 
 Subscription key needs to be changed in all the scripts.
 
